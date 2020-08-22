@@ -1,4 +1,4 @@
-# alu_8-bit
+# alu_8-bit_verilog
 8-bit wide ALU, with asynchronous reset.
 
 synchronized to positive clock edge.
